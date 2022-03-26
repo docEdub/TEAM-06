@@ -12,7 +12,7 @@
 const FrameSkips = 5
 
 const StartDetectingWithoutPointing = false
-const DisableDetectionStates = true
+const DisableDetectionStates = false
 
 const CupClass = 1
 const CatClass = 3
@@ -115,7 +115,7 @@ function updateObjectDetectionState() {
 //        }
 //    }
     if (isPointing) {
-        print("isPointing = " + isPointing)
+//        print("isPointing = " + isPointing)
         if (pointingCount % 2 == 1) {
             doNegativeReinforcement()
         }
@@ -157,7 +157,7 @@ function onFrameUpdateEvent(e) {
         if (!isPointing) {
 //            print("Setting isPointing = true")
             pointingCount++
-            print("pointingCount = " + pointingCount)
+//            print("pointingCount = " + pointingCount)
         }
         isPointing = true
 //        isObjectDetectionOn = true
