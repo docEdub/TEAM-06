@@ -3,7 +3,7 @@
     "document_id": "yADeebs1O_oxL6UG8wxb",
     "original_document_id": "_h7WbBjfuuC4bJYKtM_r",
     "version": "29",
-    "lastChanged": "1648307325487",
+    "lastChanged": "1648307399882",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -943,9 +943,6 @@
                     ],
                     [
                         "FourAscendingBellArpeggios"
-                    ],
-                    [
-                        "ML Models"
                     ],
                     [
                         "ML Models",
@@ -6034,6 +6031,10 @@
                 {
                     "k": "780",
                     "v": "Files\/File780.lsmat"
+                },
+                {
+                    "k": "785",
+                    "v": "Files\/File785.dnn"
                 }
             ]
         },
@@ -7017,7 +7018,7 @@
                     },
                     {
                         "k": "7806",
-                        "v": "c00cf962c52e9530204d00c9ee2fb665"
+                        "v": "4b9d0c4a49ff51b7a04ff77f413d7871"
                     },
                     {
                         "k": "7808",
@@ -7081,27 +7082,27 @@
                     },
                     {
                         "k": "7834",
-                        "v": "7c50bf4d0753cfac41638af1578db1cb"
+                        "v": "d131f480c26fb56a4b910f73e13911e2"
                     },
                     {
                         "k": "7835",
-                        "v": "0d80a7e41e18ff6a112a5da8fdf857b6"
+                        "v": "6598cf3e3ddc2ec76245cbb4b073a1a8"
                     },
                     {
                         "k": "7836",
-                        "v": "c41a533dde6afb5ab72ad024583aee30"
+                        "v": "62684c22fc4c8a879459bb9d9e69b8bd"
                     },
                     {
                         "k": "7837",
-                        "v": "e78d9437c5d70e45a1f437ad74426491"
+                        "v": "8e893cd946f1724c12d960b22c068ec3"
                     },
                     {
                         "k": "7838",
-                        "v": "d3e3901954ac8b577f4ab950502cc8b6"
+                        "v": "a9efb4ef6741d2a1f8ff87ccf81e4aa5"
                     },
                     {
                         "k": "7839",
-                        "v": "11af67a018fa16951a78e92d69e178f3"
+                        "v": "1a42bd220b82e9f1ed330493ff08d0d3"
                     },
                     {
                         "k": "7840",
@@ -7185,27 +7186,27 @@
                     },
                     {
                         "k": "11265",
-                        "v": "0930f0e1f0071d1e17627b16f2d7759f"
+                        "v": "d34fee19f2ce95801707b8b96af7fd71"
                     },
                     {
                         "k": "11266",
-                        "v": "f1a0086eb5deef282381bd8ae5a39db4"
+                        "v": "53f9175c9e4561173ce5437ffe5f5e5d"
                     },
                     {
                         "k": "11267",
-                        "v": "34c762f1067378af33b3db43484010e4"
+                        "v": "bd5a4cbe416c50da32269387eb4c583c"
                     },
                     {
                         "k": "11268",
-                        "v": "64149e7dd79b7f1cb0aa9932fb094706"
+                        "v": "093e3fa9deaa8f9736b4d35aa6fe9696"
                     },
                     {
                         "k": "11269",
-                        "v": "55e3d9edd5e278720239c60f8c177d46"
+                        "v": "8a867c7d94ac4e64b2c61628daba94e0"
                     },
                     {
                         "k": "11270",
-                        "v": "a7a423b7a26ec121446a340d265e2875"
+                        "v": "131998347beb8cb2ad5e988b02718e3b"
                     },
                     {
                         "k": "11271",
@@ -7261,27 +7262,27 @@
                     },
                     {
                         "k": "11285",
-                        "v": "848fd1dbefaa2f4b39c0988a55f5b158"
+                        "v": "d19e790884fb5aca6505a7ccc1e6ebf0"
                     },
                     {
                         "k": "11286",
-                        "v": "0f3c5a93f9eeb227fde454afaeb1b0f2"
+                        "v": "fab9833db9e1d79cba4d5aa24710f6bf"
                     },
                     {
                         "k": "11287",
-                        "v": "2eca4f8951288d7e218e61e0ff5abd51"
+                        "v": "86656d8da72d4b3320c8b40eda939ff9"
                     },
                     {
                         "k": "11288",
-                        "v": "1faca5c68dd5a774c753c98849fd8245"
+                        "v": "bae489ffed9a5477e967fcb24cc6de01"
                     },
                     {
                         "k": "11289",
-                        "v": "0462deb247a78b222eec2fc4d65c8661"
+                        "v": "41380aacad9c11ed1ed7fa4cfdef05fc"
                     },
                     {
                         "k": "11290",
-                        "v": "1d9ebe5ce85f36390e4f97b614382b5b"
+                        "v": "fe556b363b55821d4a7cb511276dc445"
                     },
                     {
                         "k": "11291",
@@ -7293,11 +7294,11 @@
                     },
                     {
                         "k": "11293",
-                        "v": "7e547356c4d4a51721cee12ae1265fc5"
+                        "v": "558b50e008f3f58304fd6ca5207f191d"
                     },
                     {
                         "k": "11294",
-                        "v": "77be093f50975b6ef2f47d1451367f03"
+                        "v": "0aec6d7a4fc3008d7f40e400fe3bb53c"
                     },
                     {
                         "k": "11295",
@@ -7581,7 +7582,7 @@
                     },
                     {
                         "k": "26664",
-                        "v": "e84c5c5139f421f3839cc320c8ceb9a6"
+                        "v": "8c4c4b513c13f6bb5a8cf24677bb7fae"
                     },
                     {
                         "k": "26667",
@@ -7761,11 +7762,11 @@
                     },
                     {
                         "k": "26723",
-                        "v": "34dff57968f751d886f4e29f98ef1adc"
+                        "v": "3bb73287ffaac3a08a163120baf36eb4"
                     },
                     {
                         "k": "26726",
-                        "v": "a96f880a2c81cd475ab3155cd7cc98de"
+                        "v": "7164d884be237c044d971075aeb51cd9"
                     },
                     {
                         "k": "26728",
@@ -7777,19 +7778,19 @@
                     },
                     {
                         "k": "26733",
-                        "v": "024e48ed33f322cf3c89102d4fb9c926"
+                        "v": "fc12cbae582c631fdbb8e641d0634b38"
                     },
                     {
                         "k": "26736",
-                        "v": "f7150199baf7a8d0039e32e488255622"
+                        "v": "10e40a1e76960266ed50b8ace72b0a12"
                     },
                     {
                         "k": "26737",
-                        "v": "a63cdd0382ca57d83fb8ccb02517d008"
+                        "v": "cbe3ebf6750451d85581960572adcbb0"
                     },
                     {
                         "k": "26738",
-                        "v": "3b31fb4bae2f270fa17dccf7bf857dc9"
+                        "v": "0bf0c03d11aa44e1a91bbc618d6b89ba"
                     },
                     {
                         "k": "26740",
@@ -7817,15 +7818,15 @@
                     },
                     {
                         "k": "26753",
-                        "v": "40479f6f49a637a79ccd0c99d44fb0d7"
+                        "v": "51bb451dabb5c3d8277905f79c775ad7"
                     },
                     {
                         "k": "26754",
-                        "v": "8451a911a7d78b7e58875d3f8f8d2706"
+                        "v": "4175532bc01e1cfe576f8024254ef1f6"
                     },
                     {
                         "k": "26755",
-                        "v": "0e110b69721e48792137fe2a8e6178c3"
+                        "v": "9da2670c44c600c7032be8bd962b3df9"
                     },
                     {
                         "k": "26757",
@@ -7841,23 +7842,23 @@
                     },
                     {
                         "k": "26761",
-                        "v": "9dd779dbad0c08700cca9b237987f2b3"
+                        "v": "804fec0622d42814b939c15247918414"
                     },
                     {
                         "k": "26762",
-                        "v": "2465f98a5c5cf3e2628cb143d8a67518"
+                        "v": "d50a45d43ff5918b724b04f5535716bc"
                     },
                     {
                         "k": "26764",
-                        "v": "8f4f3af51200a14c67c9645ca1b4aa92"
+                        "v": "38f6f085aab63b5561de7b7e8ad3a9e1"
                     },
                     {
                         "k": "26765",
-                        "v": "f6c318375587ee5f4cc2b672d1dd4865"
+                        "v": "ab3965b572cc89ffbf6e721dc1666a0a"
                     },
                     {
                         "k": "26768",
-                        "v": "9cf4bf5d796063ed00af5e2815ba344c"
+                        "v": "45aaeaa5ae74603b83a39be6c61dfefc"
                     },
                     {
                         "k": "26770",
@@ -7865,11 +7866,11 @@
                     },
                     {
                         "k": "26773",
-                        "v": "d514579f8ff18217442df5dcbdb104bf"
+                        "v": "9648b4185765ef9c2ec381a976137c78"
                     },
                     {
                         "k": "26776",
-                        "v": "f564e2803268ca62818c5f2859e61dbf"
+                        "v": "b7a92a732f3257394824748d1d25b5b4"
                     },
                     {
                         "k": "26778",
@@ -7881,7 +7882,7 @@
                     },
                     {
                         "k": "26783",
-                        "v": "17dfd9975de646bfb25ad47f6aad08e9"
+                        "v": "c0eeacbe8b2e785bdab381f63282db36"
                     },
                     {
                         "k": "26787",
@@ -7901,15 +7902,15 @@
                     },
                     {
                         "k": "26794",
-                        "v": "0d959da46ed1b3d1ea26ddf4947e4ae3"
+                        "v": "d535a23839a0cf8df976dec1da3606f9"
                     },
                     {
                         "k": "26795",
-                        "v": "b8cc6baaee7682d9b4d88057f681f873"
+                        "v": "6ef93d81624c67484cac038ec64bf4b4"
                     },
                     {
                         "k": "26797",
-                        "v": "c2b531d6f5f0bf2d5c19bffbc5c7481e"
+                        "v": "c1d070584741fe1e5848b3a105c0d4ed"
                     },
                     {
                         "k": "26799",
@@ -7921,7 +7922,7 @@
                     },
                     {
                         "k": "26803",
-                        "v": "c56128d4af56316eceb907afbba89856"
+                        "v": "929424d03f1bb097f25cd75859acb3f4"
                     },
                     {
                         "k": "26805",
@@ -7941,7 +7942,7 @@
                     },
                     {
                         "k": "26811",
-                        "v": "59c55945e35e2e1d3ebdcad8870ce2bc"
+                        "v": "fa4cb23876014e7cee3f1e70d1956f6b"
                     },
                     {
                         "k": "26814",
@@ -7989,7 +7990,7 @@
                     },
                     {
                         "k": "26825",
-                        "v": "f9ccc9795c71582739b330b612ae92e4"
+                        "v": "7ce2b16373caf3d6887245b1105b755a"
                     },
                     {
                         "k": "26826",
@@ -8005,7 +8006,7 @@
                         "isFolder": "true",
                         "lastModified": "2022-03-26T11:07:59",
                         "name": "Public",
-                        "hash": "16f704056675568a2456e001a90a26d8",
+                        "hash": "89bf75dbc74f40592f4f8546534989a9",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -8184,13 +8185,13 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T11:02:56",
                                 "name": "Examples Resources",
-                                "hash": "883951805957fe7b3a616c6092473de5",
+                                "hash": "1eedd631841f628d51e423da91ac0e82",
                                 "children": [
                                     {
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "3D Text Layout Example",
-                                        "hash": "8925f84195245eecc16d960c2334faae",
+                                        "hash": "1f2c38a41eb288ff8ad52ed9385a0765",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8201,9 +8202,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:33",
                                                 "name": "Material",
-                                                "hash": "498b0997d383e9cdc1ec2c8f230094d7",
+                                                "hash": "f86aacfe6eea05d0a5d97ad4ced791f9",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8221,9 +8222,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:32",
                                                         "name": "layout.lsmat",
-                                                        "hash": "953c1a24eb1eedc39b42e0286b5e69f3",
+                                                        "hash": "c56128d4af56316eceb907afbba89856",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8292,7 +8293,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Countdown Example",
-                                        "hash": "0b12f8b2b256a5df874b12dcdd8f123b",
+                                        "hash": "ef9f3315feaa7cf789d8a3b8e06edfe9",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8303,15 +8304,15 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:31",
                                                 "name": "Materials",
-                                                "hash": "425aa60f863a5286a87b0940604b42e4",
+                                                "hash": "ec1500d8861092b809d8aa928c7097a5",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:31",
                                                         "name": "countdown_mat.lsmat",
-                                                        "hash": "306587274718b95dc8f6557e08f85a0f",
+                                                        "hash": "9cf4bf5d796063ed00af5e2815ba344c",
                                                         "children": ""
                                                     },
                                                     {
@@ -8358,7 +8359,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Instanced Text Example",
-                                        "hash": "5f8046c148c98d9c95f87fe70675df60",
+                                        "hash": "91d172fbb5f644d28ae42b8cf1dd9bc1",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8369,9 +8370,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:29",
                                                 "name": "Materials",
-                                                "hash": "cea6f5ef4492272b83cb062946b57be1",
+                                                "hash": "50574fba8bce1d086d2837e89dd9948b",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8382,9 +8383,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:29",
                                                         "name": "Text3D Instancing.lsmat",
-                                                        "hash": "f308e0d6e26db90be80fe566f0b38d12",
+                                                        "hash": "34dff57968f751d886f4e29f98ef1adc",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8393,9 +8394,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:33",
                                         "name": "Languages Example",
-                                        "hash": "f5c83b124aa546c8ddb4f72faed15712",
+                                        "hash": "943f62d46b823636dbab29705e8dc5f0",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8406,9 +8407,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:33",
                                                 "name": "languages_mat.lsmat",
-                                                "hash": "3ac54c72f2faed505e9e80944ed79d4b",
+                                                "hash": "59c55945e35e2e1d3ebdcad8870ce2bc",
                                                 "children": ""
                                             }
                                         ]
@@ -8417,7 +8418,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Set Text Example",
-                                        "hash": "583eacc7e4cdcd6b47372efd600cbe87",
+                                        "hash": "a533206966f2c9e5f8571f1c00061f56",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8428,9 +8429,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:32",
                                                 "name": "Materials",
-                                                "hash": "d43c28cbc1db7fba3419c292ab2f422d",
+                                                "hash": "96f7fc6337b9ab9226130bcbdf71f511",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8441,9 +8442,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:32",
                                                         "name": "Text3D Default.lsmat",
-                                                        "hash": "238c996fb692b7a8aa88d66843f698d2",
+                                                        "hash": "f564e2803268ca62818c5f2859e61dbf",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8476,7 +8477,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Set Text On Mouth Open Example",
-                                        "hash": "39e87f21b3c010b95c2edd7cf17e61c4",
+                                        "hash": "40d22a34ee05722a568a6617604dbe18",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8487,9 +8488,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:32",
                                                 "name": "Materials",
-                                                "hash": "81b905b5c9122ac533826fe82c96d739",
+                                                "hash": "bc6423a825d01f98eac83c1a4bf9f7a9",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8500,9 +8501,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:32",
                                                         "name": "spawn_on_mouth_open.lsmat",
-                                                        "hash": "bdd310eb175d78f1f15bfad3455fc681",
+                                                        "hash": "17dfd9975de646bfb25ad47f6aad08e9",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8535,7 +8536,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Simple Example",
-                                        "hash": "7a04a9593e786cfdc983826bf8cf4cf7",
+                                        "hash": "59205d9d7f0681169edbd94a6db8edab",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8546,9 +8547,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:32",
                                                 "name": "Materials",
-                                                "hash": "8f9b22e51e11d2f35f30236d63273af6",
+                                                "hash": "75b2e70b3dafd10aebd59778bfc2f2fe",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8559,9 +8560,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:31",
                                                         "name": "simple_example [EDIT_ME].lsmat",
-                                                        "hash": "9a2fe27d7a234f865e129920078de447",
+                                                        "hash": "d514579f8ff18217442df5dcbdb104bf",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8572,7 +8573,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Snap Exmple",
-                                        "hash": "4acb5e5933922382825b6e01d77b1ae4",
+                                        "hash": "0627f3b056e7e375dc513073503423fa",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8583,9 +8584,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:30",
                                                 "name": "Materials",
-                                                "hash": "e590656f596929098c56962d35f35f03",
+                                                "hash": "5ba8ac91ccae806d15ea7d9abfcb6611",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8596,23 +8597,23 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:30",
                                                         "name": "ground_pbr.lsmat",
-                                                        "hash": "f37bc20c477dc878e9741bbaf4f033e7",
+                                                        "hash": "a63cdd0382ca57d83fb8ccb02517d008",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:29",
                                                         "name": "occluder.lsmat",
-                                                        "hash": "30f0b6ebeeee4ae38e580ffc5997a74f",
+                                                        "hash": "f7150199baf7a8d0039e32e488255622",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:30",
                                                         "name": "snap_unlit.lsmat",
-                                                        "hash": "a3a29f7504002fd1e550e0839b951910",
+                                                        "hash": "3b31fb4bae2f270fa17dccf7bf857dc9",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8696,7 +8697,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Split Example",
-                                        "hash": "24f466b5338a60d86bdd6b4cdc64d522",
+                                        "hash": "76859071de508c3c329f11b9b3bd7a74",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8707,9 +8708,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:29",
                                                 "name": "Materials",
-                                                "hash": "61c44c9585a69b2a5f524b36ade20024",
+                                                "hash": "28b0178a86bbe7f9c38f9accec57e019",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8720,9 +8721,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:29",
                                                         "name": "Font Color.lsmat",
-                                                        "hash": "db8bfcef0a25894e3892afefcfc728e1",
+                                                        "hash": "a96f880a2c81cd475ab3155cd7cc98de",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8755,7 +8756,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "Timed Example",
-                                        "hash": "0662c75036778be48a72fa4f88b87af7",
+                                        "hash": "007277344c1bb8b0e5bb6a8bb1d0904e",
                                         "children": [
                                             {
                                                 "isFolder": "true",
@@ -8790,7 +8791,7 @@
                                                 "isFolder": "true",
                                                 "lastModified": "2022-03-26T11:02:56",
                                                 "name": "Hello Rotating Example",
-                                                "hash": "e6a27d5e1452c561507221e60b707e36",
+                                                "hash": "2e828f084a16d9b0c990f733b862f3a3",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8801,9 +8802,9 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:30",
                                                         "name": "Material",
-                                                        "hash": "c163818d7fa66ecd3ba694af4c7e16d6",
+                                                        "hash": "20ae51b7b9c7ab041fda4a0fc66346a1",
                                                         "children": [
                                                             {
                                                                 "isFolder": "false",
@@ -8814,23 +8815,23 @@
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:06:20",
+                                                                "lastModified": "2022-03-26T11:08:30",
                                                                 "name": "hello_cc.lsmat",
-                                                                "hash": "9dc989cdd28d231fda7b32204cdf9626",
+                                                                "hash": "40479f6f49a637a79ccd0c99d44fb0d7",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:06:20",
+                                                                "lastModified": "2022-03-26T11:08:30",
                                                                 "name": "hello_orange.lsmat",
-                                                                "hash": "01291c48cf5bc0e3abc8c9b8d3a1c8f4",
+                                                                "hash": "0e110b69721e48792137fe2a8e6178c3",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:06:20",
+                                                                "lastModified": "2022-03-26T11:08:30",
                                                                 "name": "hello_pink.lsmat",
-                                                                "hash": "09fc85073c321037fe94982dabc0c8dd",
+                                                                "hash": "8451a911a7d78b7e58875d3f8f8d2706",
                                                                 "children": ""
                                                             }
                                                         ]
@@ -8839,9 +8840,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:31",
                                                 "name": "How's Life Example",
-                                                "hash": "96df0084d2f77de6ca432d0cf568f834",
+                                                "hash": "428e6bb98d30a0d29495abf2314028df",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8852,25 +8853,25 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:31",
                                                         "name": "night_cc.lsmat",
-                                                        "hash": "406c1a10fb8c68b782f76537d9d5239c",
+                                                        "hash": "2465f98a5c5cf3e2628cb143d8a67518",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:30",
                                                         "name": "stripe_rainbow.lsmat",
-                                                        "hash": "828a0774a91a3e7f24eb7c6b1bfe2f87",
+                                                        "hash": "9dd779dbad0c08700cca9b237987f2b3",
                                                         "children": ""
                                                     }
                                                 ]
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:31",
                                                 "name": "Just Smile Example",
-                                                "hash": "783885b4fbeb81daa44121141ed4508a",
+                                                "hash": "1de72771627a2ee1a0f1712ba07ede8e",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8881,16 +8882,16 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:31",
                                                         "name": "just_smile.lsmat",
-                                                        "hash": "ba92ace6f5f2a030984e23ad65978f4f",
+                                                        "hash": "8f4f3af51200a14c67c9645ca1b4aa92",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:31",
                                                         "name": "white_cc.lsmat",
-                                                        "hash": "a43f073980b226c32a3a10552a2f7796",
+                                                        "hash": "f6c318375587ee5f4cc2b672d1dd4865",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8959,7 +8960,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "Tween Value To Text Example",
-                                        "hash": "90969aebb886ff29ff055e6891d11752",
+                                        "hash": "0f7971582f1872710f85a28b1e0667da",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8970,9 +8971,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:29",
                                                 "name": "Materials",
-                                                "hash": "0e245f544fa3c474645c0f081411b659",
+                                                "hash": "1741cf7379c911e443a724268c436465",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8983,9 +8984,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:29",
                                                         "name": "loev_each_other.lsmat",
-                                                        "hash": "5ddf051caa8372c920b92a52625015dd",
+                                                        "hash": "024e48ed33f322cf3c89102d4fb9c926",
                                                         "children": ""
                                                     }
                                                 ]
@@ -9018,7 +9019,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "World Object 3D Text Example",
-                                        "hash": "f7f2414942c28ffdb07103730172582e",
+                                        "hash": "9d29719ae1524ac55bcdab4a369996af",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -9029,9 +9030,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:06:20",
+                                                "lastModified": "2022-03-26T11:08:32",
                                                 "name": "Materials",
-                                                "hash": "fc9cd195c35f88fae6dd3e40f68deb4d",
+                                                "hash": "ddf87957e9a71b2393463d4ac38c6cb2",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -9042,9 +9043,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:32",
                                                         "name": "hello_world.lsmat",
-                                                        "hash": "bf025b51bc85d2b938cca4de46aaa2d1",
+                                                        "hash": "c2b531d6f5f0bf2d5c19bffbc5c7481e",
                                                         "children": ""
                                                     }
                                                 ]
@@ -9075,7 +9076,7 @@
                                                 "isFolder": "true",
                                                 "lastModified": "2022-03-26T11:02:56",
                                                 "name": "WorldObjectController",
-                                                "hash": "b9d7f50e964afee56acc2a62f1ca7cf1",
+                                                "hash": "5603f89ea414ac82aea90c3d9db6d30b",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -9086,9 +9087,9 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2022-03-26T11:06:20",
+                                                        "lastModified": "2022-03-26T11:08:32",
                                                         "name": "Materials",
-                                                        "hash": "f0ae675af4850b09c6b7dc177e459b32",
+                                                        "hash": "28dca2cf71ea894c15faaa8f57185f96",
                                                         "children": [
                                                             {
                                                                 "isFolder": "false",
@@ -9099,16 +9100,16 @@
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:06:20",
+                                                                "lastModified": "2022-03-26T11:08:32",
                                                                 "name": "graph_matte_shadow.lsmat",
-                                                                "hash": "cbcf42dafa5f62cb84f91663052fc1aa",
+                                                                "hash": "b8cc6baaee7682d9b4d88057f681f873",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:06:20",
+                                                                "lastModified": "2022-03-26T11:08:32",
                                                                 "name": "ground_grid.lsmat",
-                                                                "hash": "5728e464f2327399a616580a023ea0d4",
+                                                                "hash": "0d959da46ed1b3d1ea26ddf4947e4ae3",
                                                                 "children": ""
                                                             },
                                                             {
@@ -9321,113 +9322,113 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-26T11:06:20",
+                                "lastModified": "2022-03-26T11:08:29",
                                 "name": "Materials",
-                                "hash": "20574e3ccbe416b2cf20455cf4efb2d6",
+                                "hash": "86e4be3830f146e34b58a40508ff0995",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Bottle Counter Material.lsmat",
-                                        "hash": "a6e37473586f43d56edb010843cb1aeb",
+                                        "hash": "f1a0086eb5deef282381bd8ae5a39db4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Bottle Icon Material.lsmat",
-                                        "hash": "64bfd27e7a7bf565fa7f699501297fb6",
+                                        "hash": "11af67a018fa16951a78e92d69e178f3",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "Bottle Photo Material.lsmat",
-                                        "hash": "19aac51805ec91ef7ca705fe5ad0c68c",
+                                        "hash": "0462deb247a78b222eec2fc4d65c8661",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "Car Counter Material.lsmat",
-                                        "hash": "cc5aa6b6808a1f0890df12f7530daf36",
+                                        "hash": "77be093f50975b6ef2f47d1451367f03",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "Car Icon Material.lsmat",
-                                        "hash": "7340d80479c7ea240b3ec6fb79cc9d12",
+                                        "hash": "7e547356c4d4a51721cee12ae1265fc5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "Car Photo Material.lsmat",
-                                        "hash": "f949bb7f31dd2f9f255b707cf7db402c",
+                                        "hash": "1d9ebe5ce85f36390e4f97b614382b5b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Cat Counter Material.lsmat",
-                                        "hash": "3c28b050cff38a42828958f0ef64674e",
+                                        "hash": "0930f0e1f0071d1e17627b16f2d7759f",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Cat Icon Material.lsmat",
-                                        "hash": "01c61e8ab30785356f00640b05af5e27",
+                                        "hash": "7c50bf4d0753cfac41638af1578db1cb",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "Cat Photo Material.lsmat",
-                                        "hash": "4039e0266cf7793eae3205762a99205b",
+                                        "hash": "848fd1dbefaa2f4b39c0988a55f5b158",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "Cup Counter Material.lsmat",
-                                        "hash": "0b359eedd47c08bae5cd192e298368bb",
+                                        "hash": "55e3d9edd5e278720239c60f8c177d46",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Cup Icon Material.lsmat",
-                                        "hash": "66b225970117e6bb73e47f233152be77",
+                                        "hash": "c41a533dde6afb5ab72ad024583aee30",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "Cup Photo Material.lsmat",
-                                        "hash": "f78a13e06d795fa430c538dfcc1bd35a",
+                                        "hash": "0f3c5a93f9eeb227fde454afaeb1b0f2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "Dog Counter Material.lsmat",
-                                        "hash": "c1df9d430ef81430b5396b962d0a2653",
+                                        "hash": "a7a423b7a26ec121446a340d265e2875",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Dog Icon Material.lsmat",
-                                        "hash": "07135740213757c4d1c02804886c648c",
+                                        "hash": "0d80a7e41e18ff6a112a5da8fdf857b6",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "Dog Photo Material.lsmat",
-                                        "hash": "4b16e6526aa8a19837fd4a0fd673dd2d",
+                                        "hash": "c00cf962c52e9530204d00c9ee2fb665",
                                         "children": ""
                                     },
                                     {
@@ -9439,58 +9440,58 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:29",
                                         "name": "Hand Outline.lsmat",
-                                        "hash": "46d7e1d1e8ad0858f87db3ed4edd8a2b",
+                                        "hash": "e84c5c5139f421f3839cc320c8ceb9a6",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:29",
                                         "name": "Image Default.lsmat",
-                                        "hash": "90d59cfe8a64526494b851fa0134e0f7",
+                                        "hash": "f9ccc9795c71582739b330b612ae92e4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Plant Counter Material.lsmat",
-                                        "hash": "cbb567b2c93c62bec5be98bc849739f1",
+                                        "hash": "34c762f1067378af33b3db43484010e4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "Plant Icon Material.lsmat",
-                                        "hash": "2021a175e93564b4cff5e7edc17088d6",
+                                        "hash": "d3e3901954ac8b577f4ab950502cc8b6",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "Plant Photo Material.lsmat",
-                                        "hash": "99e4f614bcde89e51519e104ceb55306",
+                                        "hash": "2eca4f8951288d7e218e61e0ff5abd51",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:27",
                                         "name": "TV Counter Material.lsmat",
-                                        "hash": "bad5c37551dacfed71af65b5c932047b",
+                                        "hash": "64149e7dd79b7f1cb0aa9932fb094706",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:26",
                                         "name": "TV Icon Material.lsmat",
-                                        "hash": "5daf7ed7ddfc5ab24157215558f59786",
+                                        "hash": "e78d9437c5d70e45a1f437ad74426491",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:06:20",
+                                        "lastModified": "2022-03-26T11:08:28",
                                         "name": "TV Photo Material.lsmat",
-                                        "hash": "a67e45994114e33c5b1b475a33646e27",
+                                        "hash": "1faca5c68dd5a774c753c98849fd8245",
                                         "children": ""
                                     }
                                 ]
@@ -20292,10 +20293,10 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1648155276648599:1281913",
+                        "uid": "1637002247153388:18208",
                         "path_list": [
-                            "CatScripts",
-                            "OnObjectDetected"
+                            "ML Models",
+                            "multi_object_detection_model"
                         ]
                     }
                 ]
@@ -24549,14 +24550,22 @@
                     "v": {
                         "infos": {
                             "originalSize": "6075350",
-                            "compressedSize": "6075350",
+                            "compressedSize": "3183433",
                             "extension": "dnn",
                             "settings": {
-                                "isCompressed": "false"
+                                "isCompressed": "true"
                             }
                         },
                         "uncompressed_file": "296",
-                        "compressed_files": ""
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d2334130fb00fe1408c547c27ce25a3c",
+                                    "settings_hash": "0"
+                                },
+                                "v": "785"
+                            }
+                        ]
                     }
                 },
                 {
