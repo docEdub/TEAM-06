@@ -9,7 +9,7 @@
 //@input SceneObject badAnimation2 = null
 //@input Component.AudioComponent badSound = null
 
-const StartDetectingWithoutPointing = true
+const StartDetectingWithoutPointing = false
 const DisableDetectionStates = false
 
 const CupClass = 1
