@@ -131,7 +131,7 @@ function updateObjectDetectionState() {
 var frameCount = 0
 
 function onFrameUpdateEvent(e) {
-    if (frameCount % 2 != 0) {
+    if (frameCount % 10 != 0) {
         return
     }
     
