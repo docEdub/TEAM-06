@@ -3,7 +3,7 @@
     "document_id": "yADeebs1O_oxL6UG8wxb",
     "original_document_id": "_h7WbBjfuuC4bJYKtM_r",
     "version": "29",
-    "lastChanged": "1648307923515",
+    "lastChanged": "1648308009510",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -316,6 +316,9 @@
                     ],
                     [
                         "ArenaBuzzer"
+                    ],
+                    [
+                        "CatScripts"
                     ],
                     [
                         "CatScripts",
@@ -1083,25 +1086,6 @@
                         "magnifying_glass"
                     ],
                     [
-                        "Particles"
-                    ],
-                    [
-                        "Particles",
-                        "Particle Sparkles"
-                    ],
-                    [
-                        "Particles",
-                        "Particles Mesh"
-                    ],
-                    [
-                        "Particles",
-                        "ramp_transp"
-                    ],
-                    [
-                        "Particles",
-                        "sparkle"
-                    ],
-                    [
                         "PointerScripts"
                     ],
                     [
@@ -1221,196 +1205,6 @@
                         "Tween",
                         "TweenTypes",
                         "TweenValue"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Head"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Hips"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftArm"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftFoot"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftForeArm"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftHand"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftHandIndex1"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftHandIndex2"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftHandIndex3"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftHandThumb1"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftLeg"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftShoulder"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftToeBase"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_LeftUpLeg"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Neck"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightArm"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightFoot"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightForeArm"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightHand"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightHandIndex1"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightHandIndex2"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightHandIndex3"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightHandThumb1"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightLeg"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightShoulder"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightToeBase"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_RightUpLeg"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Spine"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Spine1"
-                    ],
-                    [
-                        "cattest",
-                        "Animations",
-                        "mixamorig_Spine2"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Cube"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Cube 2"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Cube 3"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Cube 4"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Sphere"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Sphere 2"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Sphere 3"
-                    ],
-                    [
-                        "cattest",
-                        "Meshes",
-                        "Sphere 4"
                     ],
                     [
                         "harbit"
@@ -2135,38 +1929,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "417",
-                    "uid": "1648221248999466:98783",
-                    "name": "Files\/File495.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "418",
-                    "uid": "1648221249122126:98798",
-                    "name": "Files\/File497.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "419",
-                    "uid": "1648221249150917:98810",
-                    "name": "Files\/File499.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "420",
-                    "uid": "1648221249422966:98826",
-                    "name": "Files\/File502",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "421",
                     "uid": "1648221249686085:98845",
                     "name": "Files\/File504.mp3",
@@ -2189,310 +1951,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
-                },
-                {
-                    "resId": "424",
-                    "uid": "1648221250247484:98915",
-                    "name": "Files\/File508.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "425",
-                    "uid": "1648221251126723:98934",
-                    "name": "Files\/File510.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "426",
-                    "uid": "1648221251417909:98957",
-                    "name": "Files\/File512.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "427",
-                    "uid": "1648221251517933:98972",
-                    "name": "Files\/File514.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "428",
-                    "uid": "1648221251604028:98995",
-                    "name": "Files\/File516.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "429",
-                    "uid": "1648221251688453:99010",
-                    "name": "Files\/File518.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "430",
-                    "uid": "1648221251810136:99033",
-                    "name": "Files\/File520.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "431",
-                    "uid": "1648221251900868:99048",
-                    "name": "Files\/File522.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "432",
-                    "uid": "1648221251919827:99061",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "433",
-                    "uid": "1648221251921525:99067",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "434",
-                    "uid": "1648221251922170:99073",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "435",
-                    "uid": "1648221251922786:99079",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "436",
-                    "uid": "1648221251923419:99085",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "437",
-                    "uid": "1648221251924147:99091",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "438",
-                    "uid": "1648221251924752:99097",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "439",
-                    "uid": "1648221251925351:99103",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "440",
-                    "uid": "1648221251925973:99109",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "441",
-                    "uid": "1648221251926576:99115",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "442",
-                    "uid": "1648221251927559:99121",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "443",
-                    "uid": "1648221251928316:99127",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "444",
-                    "uid": "1648221251928912:99133",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "445",
-                    "uid": "1648221251929583:99139",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "446",
-                    "uid": "1648221251930236:99147",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "447",
-                    "uid": "1648221251977578:99155",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "448",
-                    "uid": "1648221251978942:99161",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "449",
-                    "uid": "1648221251979848:99167",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "450",
-                    "uid": "1648221251980506:99173",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "451",
-                    "uid": "1648221251981075:99179",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "452",
-                    "uid": "1648221251981691:99185",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "453",
-                    "uid": "1648221251982271:99191",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "454",
-                    "uid": "1648221251982826:99197",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "455",
-                    "uid": "1648221251983399:99203",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "456",
-                    "uid": "1648221251984001:99209",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "457",
-                    "uid": "1648221251984579:99215",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "458",
-                    "uid": "1648221251985196:99221",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "459",
-                    "uid": "1648221251985804:99227",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "460",
-                    "uid": "1648221251986383:99233",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "461",
-                    "uid": "1648221251987078:99239",
-                    "name": "",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
                 },
                 {
                     "resId": "462",
@@ -4893,42 +4351,6 @@
                     "v": "Files\/File494.js"
                 },
                 {
-                    "k": "495",
-                    "v": "Files\/File495.mesh"
-                },
-                {
-                    "k": "496",
-                    "v": "Files\/File496.mesh"
-                },
-                {
-                    "k": "497",
-                    "v": "Files\/File497.jpg"
-                },
-                {
-                    "k": "498",
-                    "v": "Files\/File498.jpg"
-                },
-                {
-                    "k": "499",
-                    "v": "Files\/File499.pvr"
-                },
-                {
-                    "k": "500",
-                    "v": "Files\/File500.png"
-                },
-                {
-                    "k": "501",
-                    "v": "Files\/File501.png"
-                },
-                {
-                    "k": "502",
-                    "v": "Files\/File502"
-                },
-                {
-                    "k": "503",
-                    "v": "Files\/File503.lsmat"
-                },
-                {
                     "k": "504",
                     "v": "Files\/File504.mp3"
                 },
@@ -4945,70 +4367,6 @@
                     "v": "Files\/File507.lsmat"
                 },
                 {
-                    "k": "508",
-                    "v": "Files\/File508.mesh"
-                },
-                {
-                    "k": "509",
-                    "v": "Files\/File509.mesh"
-                },
-                {
-                    "k": "510",
-                    "v": "Files\/File510.mesh"
-                },
-                {
-                    "k": "511",
-                    "v": "Files\/File511.mesh"
-                },
-                {
-                    "k": "512",
-                    "v": "Files\/File512.mesh"
-                },
-                {
-                    "k": "513",
-                    "v": "Files\/File513.mesh"
-                },
-                {
-                    "k": "514",
-                    "v": "Files\/File514.mesh"
-                },
-                {
-                    "k": "515",
-                    "v": "Files\/File515.mesh"
-                },
-                {
-                    "k": "516",
-                    "v": "Files\/File516.mesh"
-                },
-                {
-                    "k": "517",
-                    "v": "Files\/File517.mesh"
-                },
-                {
-                    "k": "518",
-                    "v": "Files\/File518.mesh"
-                },
-                {
-                    "k": "519",
-                    "v": "Files\/File519.mesh"
-                },
-                {
-                    "k": "520",
-                    "v": "Files\/File520.mesh"
-                },
-                {
-                    "k": "521",
-                    "v": "Files\/File521.mesh"
-                },
-                {
-                    "k": "522",
-                    "v": "Files\/File522.mesh"
-                },
-                {
-                    "k": "523",
-                    "v": "Files\/File523.mesh"
-                },
-                {
                     "k": "524",
                     "v": "Files\/File524.jpeg"
                 },
@@ -5019,10 +4377,6 @@
                 {
                     "k": "526",
                     "v": "Files\/File526.pvr"
-                },
-                {
-                    "k": "527",
-                    "v": "Files\/File527.pvr"
                 },
                 {
                     "k": "528",
@@ -5911,26 +5265,6 @@
                         "v": "Object Tracking Hint\/Script\/ObjectTrackingHintController.js"
                     },
                     {
-                        "k": "26656",
-                        "v": "Particles"
-                    },
-                    {
-                        "k": "26657",
-                        "v": "Particles\/Particles Mesh.mesh"
-                    },
-                    {
-                        "k": "26658",
-                        "v": "Particles\/ramp_transp.jpg"
-                    },
-                    {
-                        "k": "26659",
-                        "v": "Particles\/sparkle.png"
-                    },
-                    {
-                        "k": "26660",
-                        "v": "Particles\/Particle Sparkles.lsmat"
-                    },
-                    {
                         "k": "26661",
                         "v": "Sounds"
                     },
@@ -5945,50 +5279,6 @@
                     {
                         "k": "26664",
                         "v": "Materials\/Hand Outline.lsmat"
-                    },
-                    {
-                        "k": "26665",
-                        "v": "cattest"
-                    },
-                    {
-                        "k": "26666",
-                        "v": "cattest\/Meshes"
-                    },
-                    {
-                        "k": "26667",
-                        "v": "cattest\/Meshes\/Cube.mesh"
-                    },
-                    {
-                        "k": "26668",
-                        "v": "cattest\/Meshes\/Sphere.mesh"
-                    },
-                    {
-                        "k": "26669",
-                        "v": "cattest\/Meshes\/Cube 2.mesh"
-                    },
-                    {
-                        "k": "26670",
-                        "v": "cattest\/Meshes\/Sphere 2.mesh"
-                    },
-                    {
-                        "k": "26671",
-                        "v": "cattest\/Meshes\/Sphere 3.mesh"
-                    },
-                    {
-                        "k": "26672",
-                        "v": "cattest\/Meshes\/Cube 3.mesh"
-                    },
-                    {
-                        "k": "26673",
-                        "v": "cattest\/Meshes\/Cube 4.mesh"
-                    },
-                    {
-                        "k": "26674",
-                        "v": "cattest\/Meshes\/Sphere 4.mesh"
-                    },
-                    {
-                        "k": "26675",
-                        "v": "cattest\/Animations"
                     },
                     {
                         "k": "26676",
@@ -6570,7 +5860,7 @@
                     },
                     {
                         "k": "7806",
-                        "v": "55f5050fd5d296a6aebb4d78a73e9513"
+                        "v": "c0058d7c113d3617ebfe116bdc9385c4"
                     },
                     {
                         "k": "7808",
@@ -6634,27 +5924,27 @@
                     },
                     {
                         "k": "7834",
-                        "v": "039645a9597d57f633912558f3e5993b"
+                        "v": "93ca32aa0451e7b1f76e5ca61a03e1e6"
                     },
                     {
                         "k": "7835",
-                        "v": "0504077249216be44f98bfa986514666"
+                        "v": "7599c9e4a05bdee9d59c738f875f070b"
                     },
                     {
                         "k": "7836",
-                        "v": "5a5b0838e66767db6a452b743af21647"
+                        "v": "46b8b70741a9ad155275c48e33eef836"
                     },
                     {
                         "k": "7837",
-                        "v": "eef3d31953bd264dd724c7a01a5c6bdf"
+                        "v": "c6a14d0a3d424dce4a10a2e4dfb20211"
                     },
                     {
                         "k": "7838",
-                        "v": "c4e77e09fe5a238ef24825b8d9fe74bb"
+                        "v": "d1565dcd4448814be13de62aa1f2af2a"
                     },
                     {
                         "k": "7839",
-                        "v": "7adb0f47dac87461ad80c2caa29702bd"
+                        "v": "64009886a069f16959c65e863ce76436"
                     },
                     {
                         "k": "7840",
@@ -6738,27 +6028,27 @@
                     },
                     {
                         "k": "11265",
-                        "v": "ef0925c92dbb1ccd429106a1a7de00d7"
+                        "v": "f832cb1a847f7054bab22c5ed199daff"
                     },
                     {
                         "k": "11266",
-                        "v": "b7f54d16585d044760ed8335a8eef514"
+                        "v": "f510721b7e4c432d92ee6066393438eb"
                     },
                     {
                         "k": "11267",
-                        "v": "8720b3bdf4c9c22297d0893f68976700"
+                        "v": "6dea9a60fc534e79159dc735cedd5aeb"
                     },
                     {
                         "k": "11268",
-                        "v": "5bde00a985d070f22726014b5e700388"
+                        "v": "24270de39604138b2787de18efb097fe"
                     },
                     {
                         "k": "11269",
-                        "v": "089f73137f7424667324416e1cc84996"
+                        "v": "cd7c6b9b505352c24734aaaca465a641"
                     },
                     {
                         "k": "11270",
-                        "v": "1696e82f6578be8a86829536130a1027"
+                        "v": "faf6885118658ff27553eae63dfc16d8"
                     },
                     {
                         "k": "11271",
@@ -6814,27 +6104,27 @@
                     },
                     {
                         "k": "11285",
-                        "v": "1b2e8d0d2015c1919d52de71fdb9bf07"
+                        "v": "d11ea0cdffaaa72bdf4d0d7c3d378cb7"
                     },
                     {
                         "k": "11286",
-                        "v": "6b865f76bb92eab588f035d5afc9e38b"
+                        "v": "821da1f1110a108cfd2d35aeda66f4ad"
                     },
                     {
                         "k": "11287",
-                        "v": "967d4c9ea0d5381ae5c70d9ead0dfe17"
+                        "v": "19e8650f59a913baf8b0b9d9f0db0ddc"
                     },
                     {
                         "k": "11288",
-                        "v": "d0f7c635431890faf6392d28a741cd99"
+                        "v": "03a590d3e5d11b3462ff1d1c118b185d"
                     },
                     {
                         "k": "11289",
-                        "v": "0dfe45020e856757c317fc799a2eea21"
+                        "v": "b1db76f3fa5e1ee76fdc61b9cedc7ad3"
                     },
                     {
                         "k": "11290",
-                        "v": "5ba462b9761f3f6a5bc048066b2b49ef"
+                        "v": "4f8452329c9a4ac8d87e1a854e239b34"
                     },
                     {
                         "k": "11291",
@@ -6846,11 +6136,11 @@
                     },
                     {
                         "k": "11293",
-                        "v": "9cd93a6ec1cae216e9cb3d26c473aa70"
+                        "v": "5733b746c9cc83b36ec9b6e8847e4ae1"
                     },
                     {
                         "k": "11294",
-                        "v": "a91bdbbfbf9f4caa7c6e755743f404f5"
+                        "v": "22fc4ccfc45d5bfda1384087982dbfef"
                     },
                     {
                         "k": "11295",
@@ -7134,7 +6424,7 @@
                     },
                     {
                         "k": "26664",
-                        "v": "22a67c637589a14bd299f6effc15d3f2"
+                        "v": "1add4bdea5f7f68edd851f775dc2b68c"
                     },
                     {
                         "k": "26667",
@@ -7314,11 +6604,11 @@
                     },
                     {
                         "k": "26723",
-                        "v": "15ed9331fa5091d0c5abbcaa11772030"
+                        "v": "5c97788d30e241f2298f8e71faf48df7"
                     },
                     {
                         "k": "26726",
-                        "v": "ba1ca2d00608b3d3c34e04201bd3cca9"
+                        "v": "b334b704439bd1fd2fbc182db7d8e06b"
                     },
                     {
                         "k": "26728",
@@ -7330,19 +6620,19 @@
                     },
                     {
                         "k": "26733",
-                        "v": "8564b11423303330c7fb172950ea131b"
+                        "v": "afbf830432b8815b5f4c7ad66d4131ad"
                     },
                     {
                         "k": "26736",
-                        "v": "82d2ee30bde364370e034476b72908df"
+                        "v": "997fd6caa79d3f4696108e5c9d66c6ee"
                     },
                     {
                         "k": "26737",
-                        "v": "23409fca8dbf3b1d6d45cca0813ec98b"
+                        "v": "2197a3f24cf1cf4659ee69fdcdfa0d2b"
                     },
                     {
                         "k": "26738",
-                        "v": "58e7a42d0c2afef48d03e1c9a960054b"
+                        "v": "b713e3ae29d2c03bd4a726be3c71c036"
                     },
                     {
                         "k": "26740",
@@ -7370,15 +6660,15 @@
                     },
                     {
                         "k": "26753",
-                        "v": "619dabc9b1a7d6988d03bb0539da5b2a"
+                        "v": "21505e4c07ac825226706c797e012372"
                     },
                     {
                         "k": "26754",
-                        "v": "696a4eadba8287d2e84d1751cc31dce9"
+                        "v": "62180757989a1fb3e59be665f2868912"
                     },
                     {
                         "k": "26755",
-                        "v": "f82f651a5fe95b6af91d13f228621136"
+                        "v": "6d76319404a6fb18687ba290c94850f4"
                     },
                     {
                         "k": "26757",
@@ -7394,23 +6684,23 @@
                     },
                     {
                         "k": "26761",
-                        "v": "a74354513ce9955cdd13db3d4e2349f7"
+                        "v": "882db2d10e5ea501012453df44e2023c"
                     },
                     {
                         "k": "26762",
-                        "v": "2d7bd78d77961d69d2a55c3933312c7f"
+                        "v": "a52ce3bd82b7eb412161cd030e362f1e"
                     },
                     {
                         "k": "26764",
-                        "v": "babe439b3006982aeffa8949deecca14"
+                        "v": "04aaa3a5022d352d06ad3c427cb88d7e"
                     },
                     {
                         "k": "26765",
-                        "v": "28a935b498b407c56e80d9df062e397a"
+                        "v": "80222235e9aff5469076d96bb922b5c5"
                     },
                     {
                         "k": "26768",
-                        "v": "1815f9364f3fae836dfe40351f2014b7"
+                        "v": "9f2245efd5b71da88f8c6e32cd2b3f63"
                     },
                     {
                         "k": "26770",
@@ -7418,11 +6708,11 @@
                     },
                     {
                         "k": "26773",
-                        "v": "fc9c1c7d122edea06298b9e6baa6b163"
+                        "v": "29693d1d89a4b8dfde5c13d0cfe2728a"
                     },
                     {
                         "k": "26776",
-                        "v": "90774dcd50df585daf39684c9e38fed2"
+                        "v": "0ec2e5228f0477243864777751ea36cc"
                     },
                     {
                         "k": "26778",
@@ -7434,7 +6724,7 @@
                     },
                     {
                         "k": "26783",
-                        "v": "5d659ce08df39d741927f5279c06db83"
+                        "v": "57d4594e79ef353a6a18030eff276c6f"
                     },
                     {
                         "k": "26787",
@@ -7454,15 +6744,15 @@
                     },
                     {
                         "k": "26794",
-                        "v": "6ec6ea25e753cac27404e7ec6e8a96d9"
+                        "v": "76a292084d806affebadfd57ad2279ce"
                     },
                     {
                         "k": "26795",
-                        "v": "1b0093e6e4b6afd59f6ae1cbc9af3698"
+                        "v": "f6645394da5603827bdc542993cb0bbe"
                     },
                     {
                         "k": "26797",
-                        "v": "05e0ecfbc01c48072774f8dd8d3ab4de"
+                        "v": "0790133e1e2793f28897797c1dd256c0"
                     },
                     {
                         "k": "26799",
@@ -7474,7 +6764,7 @@
                     },
                     {
                         "k": "26803",
-                        "v": "c0eee2f9d8e36ff85b8a93927a755e2b"
+                        "v": "2de8b0fee79212352e5b90002961e773"
                     },
                     {
                         "k": "26805",
@@ -7494,7 +6784,7 @@
                     },
                     {
                         "k": "26811",
-                        "v": "5baaafd1dfd860f312290f628db1db68"
+                        "v": "0c8952962f9367969998a37e53a1634d"
                     },
                     {
                         "k": "26814",
@@ -7542,7 +6832,7 @@
                     },
                     {
                         "k": "26825",
-                        "v": "eddce80fa11299752190e9c087500f91"
+                        "v": "dfb25d4ee54036da8bf7040eb86591a1"
                     },
                     {
                         "k": "26826",
@@ -7556,9 +6846,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-03-26T11:11:45",
+                        "lastModified": "2022-03-26T11:19:34",
                         "name": "Public",
-                        "hash": "7f02ab3100ee34bd4a29acf1254d7963",
+                        "hash": "20562a066c7d4968171679dc7f102101",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -7612,107 +6902,6 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-26T11:02:56",
-                                "name": "cattest",
-                                "hash": "2a3a18fd6a434dfc47891204cd0a1af1",
-                                "children": [
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-03-26T11:02:56",
-                                        "name": "Animations",
-                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:02:56",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-03-26T11:02:56",
-                                        "name": "Meshes",
-                                        "hash": "28b0e5bfce38235981fd4186062f294e",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Cube 2.mesh",
-                                                "hash": "654a23f76944e78df9f5b91eb8df8153",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Cube 3.mesh",
-                                                "hash": "b8657e86ac2058554c0c5506f49b19b7",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Cube 4.mesh",
-                                                "hash": "5b6e9f8d62154070d7e06f0f83128274",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Cube.mesh",
-                                                "hash": "763d4c2e173758cb61300c4130c93062",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Sphere 2.mesh",
-                                                "hash": "077525e648f7267ec366ccf39e575731",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Sphere 3.mesh",
-                                                "hash": "26a9e8e3ae6dc44061f6f5b7ba5d9210",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Sphere 4.mesh",
-                                                "hash": "8c34495c97ce9f15a55632e9f4daeaa2",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:02:56",
-                                                "name": "Sphere.mesh",
-                                                "hash": "ecfc1e551728e4437ec96d475a79e575",
-                                                "children": ""
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
                                 "lastModified": "2022-03-25T19:59:18",
                                 "name": "Crop Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
@@ -7737,13 +6926,13 @@
                                 "isFolder": "true",
                                 "lastModified": "2022-03-26T11:02:56",
                                 "name": "Examples Resources",
-                                "hash": "03590f77a71d7666178993dac112695c",
+                                "hash": "588dd2ba80168bc4769b38775b38e1c3",
                                 "children": [
                                     {
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "3D Text Layout Example",
-                                        "hash": "b17b7f86ea6e4c5e0227dde69823aa0e",
+                                        "hash": "7876babf246af6fb69987f5caa1334c4",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -7754,9 +6943,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:41",
                                                 "name": "Material",
-                                                "hash": "4cc4db987068cddb44f6c40620dad48e",
+                                                "hash": "ec8e7d2c5aac17b127dd572abf97c0b7",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -7774,9 +6963,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:41",
                                                         "name": "layout.lsmat",
-                                                        "hash": "0b59ce35c696a554f059d306207a8424",
+                                                        "hash": "c0eee2f9d8e36ff85b8a93927a755e2b",
                                                         "children": ""
                                                     }
                                                 ]
@@ -7845,7 +7034,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Countdown Example",
-                                        "hash": "b33b86b42abed43f2ce042efeee39463",
+                                        "hash": "bfee089d598b41f8766f2590001c9db3",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -7856,15 +7045,15 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "Materials",
-                                                "hash": "aae6a18ee459d91db203e3fa740d388f",
+                                                "hash": "887aab718b05a8fe02b7d7dd189e8cc7",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "countdown_mat.lsmat",
-                                                        "hash": "f18589e1666d3dd2aaef610293504bce",
+                                                        "hash": "1815f9364f3fae836dfe40351f2014b7",
                                                         "children": ""
                                                     },
                                                     {
@@ -7911,7 +7100,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Instanced Text Example",
-                                        "hash": "0ed1358b2de68c771c4e4de15e22f6fe",
+                                        "hash": "dedc00abbde28bf11f58a0a8677774d7",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -7922,9 +7111,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:50",
+                                                "lastModified": "2022-03-26T11:18:39",
                                                 "name": "Materials",
-                                                "hash": "e81fbbb1f9c5c577323645342250ecf5",
+                                                "hash": "218d51aeec9501eb0517312190ac9096",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -7935,9 +7124,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:50",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "Text3D Instancing.lsmat",
-                                                        "hash": "f33919f3bd557109e6a11d09e5498387",
+                                                        "hash": "15ed9331fa5091d0c5abbcaa11772030",
                                                         "children": ""
                                                     }
                                                 ]
@@ -7946,9 +7135,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-03-26T11:15:52",
+                                        "lastModified": "2022-03-26T11:18:41",
                                         "name": "Languages Example",
-                                        "hash": "35266abcfb4120866f02ef31136b00dc",
+                                        "hash": "047252d956ef396af28da3f1e6732c1f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -7959,9 +7148,9 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:41",
                                                 "name": "languages_mat.lsmat",
-                                                "hash": "fc38ea52562b1f78fd42d03bfa1885d2",
+                                                "hash": "5baaafd1dfd860f312290f628db1db68",
                                                 "children": ""
                                             }
                                         ]
@@ -7970,7 +7159,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Set Text Example",
-                                        "hash": "1656a67a6311a71fbaf22fa9828f0c37",
+                                        "hash": "a78132d9406e7622e5aed960cef1e005",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -7981,9 +7170,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "Materials",
-                                                "hash": "afe1c3a7648df34e62bb0ff89ff0967e",
+                                                "hash": "7e40e9b92d03098faf8a5f22634915c1",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -7994,9 +7183,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "Text3D Default.lsmat",
-                                                        "hash": "91b37df7c5d914b3e3277337b40ba2a2",
+                                                        "hash": "90774dcd50df585daf39684c9e38fed2",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8029,7 +7218,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Set Text On Mouth Open Example",
-                                        "hash": "39e2ddf0253ddfa9b80af7e61ae93044",
+                                        "hash": "08e9dc3afdd6e7445275cdf483044e04",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8040,9 +7229,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "Materials",
-                                                "hash": "a770d9af36ce6cd84a7375a13ff61c0b",
+                                                "hash": "f77aebb398e1be0e0cb3b7c7ba9098de",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8053,9 +7242,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "spawn_on_mouth_open.lsmat",
-                                                        "hash": "e351e4e46ebffae57c445ed74605c180",
+                                                        "hash": "5d659ce08df39d741927f5279c06db83",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8088,7 +7277,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Simple Example",
-                                        "hash": "f0644cca830cb23c9857119ab8d0ee7d",
+                                        "hash": "1c5fe2cf7053e10527901700f2c717d4",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8099,9 +7288,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "Materials",
-                                                "hash": "cc0e6bd0bc12a7170f0e60fcd7566133",
+                                                "hash": "993255fa146f1a039b0abb45483ead7d",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8112,9 +7301,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "simple_example [EDIT_ME].lsmat",
-                                                        "hash": "c219d48abbad31741d6d203d7c1c4b99",
+                                                        "hash": "fc9c1c7d122edea06298b9e6baa6b163",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8125,7 +7314,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Snap Exmple",
-                                        "hash": "9e7c67e13d82a9f278cd75914fcb57a9",
+                                        "hash": "cec485e2ce93c6cc2c71bb63bc9ff5a1",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8136,9 +7325,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:51",
+                                                "lastModified": "2022-03-26T11:18:39",
                                                 "name": "Materials",
-                                                "hash": "f7b7028a63dc1a2b17b594eeab49e066",
+                                                "hash": "07ff39ac2474550446856ca843746e3c",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8149,23 +7338,23 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "ground_pbr.lsmat",
-                                                        "hash": "3ecf3263f50e01738ffeb1497ab6d5e3",
+                                                        "hash": "23409fca8dbf3b1d6d45cca0813ec98b",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "occluder.lsmat",
-                                                        "hash": "cf139efc435a5ca157878e0d00da97e2",
+                                                        "hash": "82d2ee30bde364370e034476b72908df",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "snap_unlit.lsmat",
-                                                        "hash": "9c314956fd54cab4818d9f0a9d42ee9b",
+                                                        "hash": "58e7a42d0c2afef48d03e1c9a960054b",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8249,7 +7438,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:55",
                                         "name": "Split Example",
-                                        "hash": "efd8181f3e8babf4ee0e2b1902f2555f",
+                                        "hash": "cdd9823a65e07122957853301174ad5d",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8260,9 +7449,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:50",
+                                                "lastModified": "2022-03-26T11:18:39",
                                                 "name": "Materials",
-                                                "hash": "2bb7cdc66878054809736a36d8684b1a",
+                                                "hash": "70284c99314726112cf6754ce6a1c4af",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8273,9 +7462,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:50",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "Font Color.lsmat",
-                                                        "hash": "476db03ec1abbd3e39ed65f325616218",
+                                                        "hash": "ba1ca2d00608b3d3c34e04201bd3cca9",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8308,7 +7497,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "Timed Example",
-                                        "hash": "0f13f70c42484974d82e05cec07451a7",
+                                        "hash": "96af7a0f1aae97376cb594a752269cb2",
                                         "children": [
                                             {
                                                 "isFolder": "true",
@@ -8343,7 +7532,7 @@
                                                 "isFolder": "true",
                                                 "lastModified": "2022-03-26T11:02:56",
                                                 "name": "Hello Rotating Example",
-                                                "hash": "d80d9674d381469444a02baa0c1a1648",
+                                                "hash": "f4854125fd11e47a4eb01726cb043fcd",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8354,9 +7543,9 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "Material",
-                                                        "hash": "6d7fdd3ef02f2ed562a3ead2a839f22e",
+                                                        "hash": "a41dd409d2c0e814e1e8be6e6281f8a5",
                                                         "children": [
                                                             {
                                                                 "isFolder": "false",
@@ -8367,23 +7556,23 @@
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:15:51",
+                                                                "lastModified": "2022-03-26T11:18:39",
                                                                 "name": "hello_cc.lsmat",
-                                                                "hash": "1414c9f34405131e661a4fd50ef992d7",
+                                                                "hash": "619dabc9b1a7d6988d03bb0539da5b2a",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:15:51",
+                                                                "lastModified": "2022-03-26T11:18:40",
                                                                 "name": "hello_orange.lsmat",
-                                                                "hash": "cee74726acc16d306041e6d294bb881a",
+                                                                "hash": "f82f651a5fe95b6af91d13f228621136",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:15:51",
+                                                                "lastModified": "2022-03-26T11:18:40",
                                                                 "name": "hello_pink.lsmat",
-                                                                "hash": "5a21b947c0631f120e1ab41ff90c6bf3",
+                                                                "hash": "696a4eadba8287d2e84d1751cc31dce9",
                                                                 "children": ""
                                                             }
                                                         ]
@@ -8392,9 +7581,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:51",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "How's Life Example",
-                                                "hash": "17543f2c36c56d9c571b855d92f870f4",
+                                                "hash": "454b28227bb60451eb3a83d8a5efef68",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8405,25 +7594,25 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "night_cc.lsmat",
-                                                        "hash": "24f1e2d6a569688c3ef61af212d54a6c",
+                                                        "hash": "2d7bd78d77961d69d2a55c3933312c7f",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "stripe_rainbow.lsmat",
-                                                        "hash": "d4d58c8bafcd7eb6fd6d78eedec38164",
+                                                        "hash": "a74354513ce9955cdd13db3d4e2349f7",
                                                         "children": ""
                                                     }
                                                 ]
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:51",
+                                                "lastModified": "2022-03-26T11:18:40",
                                                 "name": "Just Smile Example",
-                                                "hash": "17bdf32134dcce2e331044a8f4bad204",
+                                                "hash": "72e8d4306cb7f0256ec288f3ff150e62",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8434,16 +7623,16 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "just_smile.lsmat",
-                                                        "hash": "06f4b233fcf190dbbe4d6376e310269d",
+                                                        "hash": "babe439b3006982aeffa8949deecca14",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:51",
+                                                        "lastModified": "2022-03-26T11:18:40",
                                                         "name": "white_cc.lsmat",
-                                                        "hash": "105d2dc85bb4da7c4c4dcc9179219a43",
+                                                        "hash": "28a935b498b407c56e80d9df062e397a",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8512,7 +7701,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "Tween Value To Text Example",
-                                        "hash": "be617ef3e3e97e59bbe1e34ca46c41c4",
+                                        "hash": "4b3c928de5e1f08e7978cb8137fb5dbc",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8523,9 +7712,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:50",
+                                                "lastModified": "2022-03-26T11:18:39",
                                                 "name": "Materials",
-                                                "hash": "b94362b39cc1d47dfab058384571c445",
+                                                "hash": "8b1dcdf11b0d8a60cbf246733e2e9bc5",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8536,9 +7725,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:50",
+                                                        "lastModified": "2022-03-26T11:18:39",
                                                         "name": "loev_each_other.lsmat",
-                                                        "hash": "92c560130495599375966db68a237f70",
+                                                        "hash": "8564b11423303330c7fb172950ea131b",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8571,7 +7760,7 @@
                                         "isFolder": "true",
                                         "lastModified": "2022-03-26T11:02:56",
                                         "name": "World Object 3D Text Example",
-                                        "hash": "adfa4511d08922b45d8ea7e1743462b3",
+                                        "hash": "e4d2b854b652ee1b068ebd7511cd1c22",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -8582,9 +7771,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2022-03-26T11:15:52",
+                                                "lastModified": "2022-03-26T11:18:41",
                                                 "name": "Materials",
-                                                "hash": "5173c05759c92bac80490a99c4e496ba",
+                                                "hash": "c80cdf29a5565c4028e17dc557d3441e",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8595,9 +7784,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:41",
                                                         "name": "hello_world.lsmat",
-                                                        "hash": "92e8243bc389579d4deab687a132423e",
+                                                        "hash": "05e0ecfbc01c48072774f8dd8d3ab4de",
                                                         "children": ""
                                                     }
                                                 ]
@@ -8628,7 +7817,7 @@
                                                 "isFolder": "true",
                                                 "lastModified": "2022-03-26T11:02:56",
                                                 "name": "WorldObjectController",
-                                                "hash": "e0ad4a4af665009b9ce497c269c811dd",
+                                                "hash": "b582fe7a1fe55845b609640fd8c07ce0",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -8639,9 +7828,9 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2022-03-26T11:15:52",
+                                                        "lastModified": "2022-03-26T11:18:41",
                                                         "name": "Materials",
-                                                        "hash": "042ad8c23c9e85a6bd433f60465a39ca",
+                                                        "hash": "d3bb479e2c178d53d7e075847ffdd24f",
                                                         "children": [
                                                             {
                                                                 "isFolder": "false",
@@ -8652,16 +7841,16 @@
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:15:52",
+                                                                "lastModified": "2022-03-26T11:18:41",
                                                                 "name": "graph_matte_shadow.lsmat",
-                                                                "hash": "d16eb55fd1a4ae143f532d3684e59161",
+                                                                "hash": "1b0093e6e4b6afd59f6ae1cbc9af3698",
                                                                 "children": ""
                                                             },
                                                             {
                                                                 "isFolder": "false",
-                                                                "lastModified": "2022-03-26T11:15:52",
+                                                                "lastModified": "2022-03-26T11:18:40",
                                                                 "name": "ground_grid.lsmat",
-                                                                "hash": "60f4fd6490deb037ba01890fadcc1cfd",
+                                                                "hash": "6ec6ea25e753cac27404e7ec6e8a96d9",
                                                                 "children": ""
                                                             },
                                                             {
@@ -8874,113 +8063,113 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-03-26T11:15:50",
+                                "lastModified": "2022-03-26T11:18:39",
                                 "name": "Materials",
-                                "hash": "c8c25a9c3b48e66a66bd40bb425bf36c",
+                                "hash": "6199d682291f9e0abb663f993ac6c6e6",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Bottle Counter Material.lsmat",
-                                        "hash": "22aa82c08287f8a7a3df13b87ab555ce",
+                                        "hash": "b7f54d16585d044760ed8335a8eef514",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Bottle Icon Material.lsmat",
-                                        "hash": "71961ab3b6e36db89cba95bbe1590639",
+                                        "hash": "7adb0f47dac87461ad80c2caa29702bd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Bottle Photo Material.lsmat",
-                                        "hash": "bd2a2a9db0c4c6acf8dc7c795d10e0a9",
+                                        "hash": "0dfe45020e856757c317fc799a2eea21",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:39",
                                         "name": "Car Counter Material.lsmat",
-                                        "hash": "1dd56f0646d107902ad5ce14c8c08e05",
+                                        "hash": "a91bdbbfbf9f4caa7c6e755743f404f5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:39",
                                         "name": "Car Icon Material.lsmat",
-                                        "hash": "058bdf62bb98829fb35fdb87215e45c5",
+                                        "hash": "9cd93a6ec1cae216e9cb3d26c473aa70",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Car Photo Material.lsmat",
-                                        "hash": "1bd3d790965599d5369648473821cc29",
+                                        "hash": "5ba462b9761f3f6a5bc048066b2b49ef",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Cat Counter Material.lsmat",
-                                        "hash": "fa57875ec981e5d314c36f8e155d4ebb",
+                                        "hash": "ef0925c92dbb1ccd429106a1a7de00d7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:36",
                                         "name": "Cat Icon Material.lsmat",
-                                        "hash": "35447d70157d02f3f1a191df90869f39",
+                                        "hash": "039645a9597d57f633912558f3e5993b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Cat Photo Material.lsmat",
-                                        "hash": "4530a3ec5b8c383716e571b993321d97",
+                                        "hash": "1b2e8d0d2015c1919d52de71fdb9bf07",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Cup Counter Material.lsmat",
-                                        "hash": "5f04c32491b4211cf1a711876d2663c8",
+                                        "hash": "089f73137f7424667324416e1cc84996",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Cup Icon Material.lsmat",
-                                        "hash": "bd19e51640339f65202ced51037c2af7",
+                                        "hash": "5a5b0838e66767db6a452b743af21647",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Cup Photo Material.lsmat",
-                                        "hash": "03a934a4bc054bb185dec3f501182f90",
+                                        "hash": "6b865f76bb92eab588f035d5afc9e38b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Dog Counter Material.lsmat",
-                                        "hash": "e8b5cee939e1f241e598917f7c3370cc",
+                                        "hash": "1696e82f6578be8a86829536130a1027",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:36",
                                         "name": "Dog Icon Material.lsmat",
-                                        "hash": "6e40b3db2f8d99da78e33710e44856b0",
+                                        "hash": "0504077249216be44f98bfa986514666",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Dog Photo Material.lsmat",
-                                        "hash": "e4f46cb569d3b5a3d08c71b67a583139",
+                                        "hash": "55f5050fd5d296a6aebb4d78a73e9513",
                                         "children": ""
                                     },
                                     {
@@ -8992,58 +8181,58 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:39",
                                         "name": "Hand Outline.lsmat",
-                                        "hash": "b17422ee094fac3587a473f96cbaa3ce",
+                                        "hash": "22a67c637589a14bd299f6effc15d3f2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:50",
+                                        "lastModified": "2022-03-26T11:18:39",
                                         "name": "Image Default.lsmat",
-                                        "hash": "817c95afddd7d2310c0c8a8ec72ab457",
+                                        "hash": "eddce80fa11299752190e9c087500f91",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Plant Counter Material.lsmat",
-                                        "hash": "cce83252e2cb42a8a88e3e69dffb009c",
+                                        "hash": "8720b3bdf4c9c22297d0893f68976700",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "Plant Icon Material.lsmat",
-                                        "hash": "85d08be578a2a7cfc27827726f3b7cb2",
+                                        "hash": "c4e77e09fe5a238ef24825b8d9fe74bb",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "Plant Photo Material.lsmat",
-                                        "hash": "7120f14ee8966448ab2210f9ba755f7b",
+                                        "hash": "967d4c9ea0d5381ae5c70d9ead0dfe17",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "TV Counter Material.lsmat",
-                                        "hash": "d32d8bfc2267c9d2f5ee68cdb5551ec1",
+                                        "hash": "5bde00a985d070f22726014b5e700388",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:48",
+                                        "lastModified": "2022-03-26T11:18:37",
                                         "name": "TV Icon Material.lsmat",
-                                        "hash": "70fef3e08a4c75f466a3a28785a6bde3",
+                                        "hash": "eef3d31953bd264dd724c7a01a5c6bdf",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-03-26T11:15:49",
+                                        "lastModified": "2022-03-26T11:18:38",
                                         "name": "TV Photo Material.lsmat",
-                                        "hash": "3f7f886171097b61e1f2cd06d8672399",
+                                        "hash": "d0f7c635431890faf6392d28a741cd99",
                                         "children": ""
                                     }
                                 ]
@@ -9170,49 +8359,6 @@
                                                 ]
                                             }
                                         ]
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-03-25T19:59:18",
-                                "name": "Particles",
-                                "hash": "756fa478e2a5c69eb23fab78f47698c7",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-26T10:10:41",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-25T11:14:14",
-                                        "name": "Particle Sparkles.lsmat",
-                                        "hash": "172b5f7d3eef0b840c47fe9f65413cae",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-25T11:14:07",
-                                        "name": "Particles Mesh.mesh",
-                                        "hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-25T11:14:07",
-                                        "name": "ramp_transp.jpg",
-                                        "hash": "86cfa6d4b3300a3eb47aab647e6382da",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-03-25T11:14:07",
-                                        "name": "sparkle.png",
-                                        "hash": "0e82befc4da960edbc004f54b7be36a1",
-                                        "children": ""
                                     }
                                 ]
                             },
@@ -15776,124 +14922,6 @@
                         ]
                     },
                     {
-                        "name": "Particles",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "26656",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Particles Mesh",
-                                "type": "3",
-                                "subtype": "0",
-                                "resourceId": "417",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1648221248999466:98783",
-                                "fileId": "495",
-                                "originalId": "18446744073709551615",
-                                "publicId": "26657",
-                                "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                "additional": {
-                                    "originalAttribs": {
-                                        "vertexAttribs": [
-                                            {
-                                                "semantic": "position",
-                                                "format": "0",
-                                                "index": "0"
-                                            },
-                                            {
-                                                "semantic": "color",
-                                                "format": "2",
-                                                "index": "1"
-                                            },
-                                            {
-                                                "semantic": "texture0",
-                                                "format": "2",
-                                                "index": "2"
-                                            }
-                                        ]
-                                    },
-                                    "info": {
-                                        "vertexAttribs": [
-                                            {
-                                                "semantic": "position",
-                                                "format": "0",
-                                                "canBeDisabled": "false"
-                                            },
-                                            {
-                                                "semantic": "color",
-                                                "format": "2",
-                                                "canBeDisabled": "true"
-                                            },
-                                            {
-                                                "semantic": "texture0",
-                                                "format": "2",
-                                                "canBeDisabled": "true"
-                                            }
-                                        ],
-                                        "hasBlendShapes": "false"
-                                    }
-                                }
-                            },
-                            {
-                                "name": "ramp_transp",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "418",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1648221249122126:98798",
-                                "fileId": "497",
-                                "originalId": "498",
-                                "publicId": "26658",
-                                "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                "additional": {
-                                    "originHash": "86cfa6d4b3300a3eb47aab647e6382da",
-                                    "subtype": "9"
-                                }
-                            },
-                            {
-                                "name": "sparkle",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "419",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1648221249150917:98810",
-                                "fileId": "499",
-                                "originalId": "500",
-                                "publicId": "26659",
-                                "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                "additional": {
-                                    "originHash": "0e82befc4da960edbc004f54b7be36a1",
-                                    "subtype": "9"
-                                }
-                            },
-                            {
-                                "name": "Particle Sparkles",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "420",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1648221249422966:98826",
-                                "fileId": "502",
-                                "originalId": "503",
-                                "publicId": "26660",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
                         "name": "Sounds",
                         "type": "0",
                         "subtype": "-1",
@@ -15934,834 +14962,6 @@
                                 "publicId": "26663",
                                 "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMp3.mp3",
                                 "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "cattest",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "26665",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "26666",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Cube",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "424",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221250247484:98915",
-                                        "fileId": "508",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26667",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Sphere",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "425",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251126723:98934",
-                                        "fileId": "510",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26668",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Cube 2",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "426",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251417909:98957",
-                                        "fileId": "512",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26669",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Sphere 2",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "427",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251517933:98972",
-                                        "fileId": "514",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26670",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Sphere 3",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "428",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251604028:98995",
-                                        "fileId": "516",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26671",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Cube 3",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "429",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251688453:99010",
-                                        "fileId": "518",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26672",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Cube 4",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "430",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251810136:99033",
-                                        "fileId": "520",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26673",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Sphere 4",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "431",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251900868:99048",
-                                        "fileId": "522",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "26674",
-                                        "source": "C:\/Users\/andyf\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiouoFccFyFTebw\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "boneData",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Animations",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "26675",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "mixamorig_Hips",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "432",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251919827:99061",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_Spine",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "433",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251921525:99067",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_Spine1",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "434",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251922170:99073",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_Spine2",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "435",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251922786:99079",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_Neck",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "436",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251923419:99085",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_Head",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "437",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251924147:99091",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftShoulder",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "438",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251924752:99097",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftArm",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "439",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251925351:99103",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftForeArm",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "440",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251925973:99109",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftHand",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "441",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251926576:99115",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftHandThumb1",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "442",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251927559:99121",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftHandIndex1",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "443",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251928316:99127",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftHandIndex2",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "444",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251928912:99133",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftHandIndex3",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "445",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251929583:99139",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightShoulder",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "446",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251930236:99147",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightArm",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "447",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251977578:99155",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightForeArm",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "448",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251978942:99161",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightHand",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "449",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251979848:99167",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightHandThumb1",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "450",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251980506:99173",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightHandIndex1",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "451",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251981075:99179",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightHandIndex2",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "452",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251981691:99185",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightHandIndex3",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "453",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251982271:99191",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftUpLeg",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "454",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251982826:99197",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftLeg",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "455",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251983399:99203",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftFoot",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "456",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251984001:99209",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_LeftToeBase",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "457",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251984579:99215",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightUpLeg",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "458",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251985196:99221",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightLeg",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "459",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251985804:99227",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightFoot",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "460",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251986383:99233",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "mixamorig_RightToeBase",
-                                        "type": "8",
-                                        "subtype": "0",
-                                        "resourceId": "461",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1648221251987078:99239",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
                             }
                         ]
                     },
@@ -23529,528 +21729,6 @@
                                 "v": "526"
                             }
                         ]
-                    }
-                },
-                {
-                    "k": "1648221248999466:98783",
-                    "v": {
-                        "infos": {
-                            "originalSize": "19744",
-                            "compressedSize": "19744",
-                            "originalRAM": "59940",
-                            "compressedRAM": "59940",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "0",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "color",
-                                            "format": "2",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "2",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "496",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221249150917:98810",
-                    "v": {
-                        "infos": {
-                            "originalSize": "4901",
-                            "compressedSize": "3883",
-                            "originalRAM": "65536",
-                            "compressedRAM": "8192",
-                            "extension": "png",
-                            "settings": {
-                                "isCompressed": "true",
-                                "level": "2",
-                                "type": "1",
-                                "subtype": "9"
-                            }
-                        },
-                        "uncompressed_file": "501",
-                        "compressed_files": [
-                            {
-                                "k": {
-                                    "uncompressed_hash": "0e82befc4da960edbc004f54b7be36a1",
-                                    "settings_hash": "2049"
-                                },
-                                "v": "527"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "k": "1648221250247484:98915",
-                    "v": {
-                        "infos": {
-                            "originalSize": "5527474",
-                            "compressedSize": "5527474",
-                            "originalRAM": "14657792",
-                            "compressedRAM": "14657792",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "509",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251126723:98934",
-                    "v": {
-                        "infos": {
-                            "originalSize": "21120",
-                            "compressedSize": "21120",
-                            "originalRAM": "41536",
-                            "compressedRAM": "41536",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "511",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251417909:98957",
-                    "v": {
-                        "infos": {
-                            "originalSize": "98626",
-                            "compressedSize": "98626",
-                            "originalRAM": "298432",
-                            "compressedRAM": "298432",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "513",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251517933:98972",
-                    "v": {
-                        "infos": {
-                            "originalSize": "21058",
-                            "compressedSize": "21058",
-                            "originalRAM": "41536",
-                            "compressedRAM": "41536",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "515",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251604028:98995",
-                    "v": {
-                        "infos": {
-                            "originalSize": "21434",
-                            "compressedSize": "21434",
-                            "originalRAM": "41536",
-                            "compressedRAM": "41536",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "517",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251688453:99010",
-                    "v": {
-                        "infos": {
-                            "originalSize": "370749",
-                            "compressedSize": "370749",
-                            "originalRAM": "1190004",
-                            "compressedRAM": "1190004",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "519",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251810136:99033",
-                    "v": {
-                        "infos": {
-                            "originalSize": "49180",
-                            "compressedSize": "49180",
-                            "originalRAM": "156992",
-                            "compressedRAM": "156992",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "521",
-                        "compressed_files": ""
-                    }
-                },
-                {
-                    "k": "1648221251900868:99048",
-                    "v": {
-                        "infos": {
-                            "originalSize": "21458",
-                            "compressedSize": "21458",
-                            "originalRAM": "41536",
-                            "compressedRAM": "41536",
-                            "extension": "mesh",
-                            "settings": {
-                                "isCompressed": "false",
-                                "info": {
-                                    "vertexAttribs": [
-                                        {
-                                            "semantic": "position",
-                                            "format": "9",
-                                            "canBeDisabled": "false"
-                                        },
-                                        {
-                                            "semantic": "normal",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "tangent",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "texture0",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        },
-                                        {
-                                            "semantic": "boneData",
-                                            "format": "9",
-                                            "canBeDisabled": "true"
-                                        }
-                                    ],
-                                    "hasBlendShapes": "false"
-                                },
-                                "type": "0",
-                                "attributeFormat": "",
-                                "draco": {
-                                    "posBits": "11",
-                                    "texBits": "10",
-                                    "normalBits": "8",
-                                    "colorBits": "8",
-                                    "compressLvl": "7"
-                                }
-                            }
-                        },
-                        "uncompressed_file": "523",
-                        "compressed_files": ""
                     }
                 },
                 {
