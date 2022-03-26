@@ -9,7 +9,9 @@
 //@input SceneObject badAnimation2 = null
 //@input Component.AudioComponent badSound = null
 
-const StartDetectingWithoutPointing = true
+const FrameSkips = 5
+
+const StartDetectingWithoutPointing = false
 const DisableDetectionStates = false
 
 const CupClass = 1
@@ -17,13 +19,14 @@ const CatClass = 3
 const DogClass = 5
 const BottleClass = 7
 
-const PointEndEventDelay = 5
+const PointEndEventDelay = 2
 const ObjectDetectionEndEventDelay = 5
 const PositiveReinforcementTime = 10
 const NegativeReinforcementTime = 9
 
 var pointEndEventDelayRemaining = 0
 var isPointing = false
+var pointingCount = 0;
 
 var objectDetectEndEventDelayRemaining = 0
 var objectWasDetected = false
@@ -80,7 +83,7 @@ function doNegativeReinforcement() {
 function continueReinforcements() {
     if (isDoingPositiveReinforcement) {
         if (positiveReinforcementTimeRemaining > 0) {
-            positiveReinforcementTimeRemaining -= getDeltaTime()
+            positiveReinforcementTimeRemaining -= getDeltaTime() * FrameSkips
             if (positiveReinforcementTimeRemaining <= 0) {
                 isDoingPositiveReinforcement = false
             }
@@ -88,7 +91,7 @@ function continueReinforcements() {
     }
     if (isDoingNegativeReinforcement) {
         if (negativeReinforcementTimeRemaining > 0) {
-            negativeReinforcementTimeRemaining -= getDeltaTime()
+            negativeReinforcementTimeRemaining -= getDeltaTime() * FrameSkips
             if (negativeReinforcementTimeRemaining <= 0) {
                 isDoingNegativeReinforcement = false
             }
@@ -103,11 +106,20 @@ function updateObjectDetectionState() {
     }
     
     resetReinforcements()
-    if (objectWasDetected) {
-        if (detectedObjectClass === CupClass) {
+//    if (objectWasDetected) {
+//        if (detectedObjectClass === CupClass) {
+//            doNegativeReinforcement()
+//        }
+//        else if (detectedObjectClass === BottleClass) {
+//            doPositiveReinforcement()
+//        }
+//    }
+    if (isPointing) {
+        print("isPointing = " + isPointing)
+        if (pointingCount % 2 == 1) {
             doNegativeReinforcement()
         }
-        else if (detectedObjectClass === BottleClass) {
+        else {
             doPositiveReinforcement()
         }
     }
@@ -131,44 +143,48 @@ function updateObjectDetectionState() {
 var frameCount = 0
 
 function onFrameUpdateEvent(e) {
-    if (frameCount % 10 != 0) {
+    frameCount++
+    if (frameCount % FrameSkips != 0) {
         return
     }
-    
-    if (script.onPointerEventScript === undefined) {
-//        print("onPointerEventScript is undefined")
-        return
-    }
-    
+
+//    if (script.onPointerEventScript === undefined) {
+////        print("onPointerEventScript is undefined")
+//        return
+//    }
+//    
     if (script.onPointerEventScript.api.isPointing || StartDetectingWithoutPointing) {
         if (!isPointing) {
 //            print("Setting isPointing = true")
+            pointingCount++
+            print("pointingCount = " + pointingCount)
         }
         isPointing = true
-        isObjectDetectionOn = true
+//        isObjectDetectionOn = true
         pointEndEventDelayRemaining = PointEndEventDelay
     }
     else if (pointEndEventDelayRemaining > 0) {
-        pointEndEventDelayRemaining -= getDeltaTime()
+        pointEndEventDelayRemaining -= getDeltaTime() * FrameSkips
         if (pointEndEventDelayRemaining <= 0) {
 //            print("point end delay expired")
 //            print("Setting isPointing = false")
             isPointing = false
         }
     }
-    
-    if (objectWasDetected || isPointing) {
-        isObjectDetectionOn = true
-        objectDetectEndEventDelayRemaining = ObjectDetectionEndEventDelay
-    }
-    else if (objectDetectEndEventDelayRemaining > 0) {
-        objectDetectEndEventDelayRemaining -= getDeltaTime()
-        if (objectDetectEndEventDelayRemaining <= 0) {
-//            print("object detection delay expired")
-            isObjectDetectionOn = false
-            objectWasDetected = false
-        }
-    }
+//    print("isPointing = " + isPointing)
+//    
+//    if (objectWasDetected || isPointing) {
+//        isObjectDetectionOn = true
+//        objectDetectEndEventDelayRemaining = ObjectDetectionEndEventDelay
+//    }
+//    else if (objectDetectEndEventDelayRemaining > 0) {
+//        objectDetectEndEventDelayRemaining -= getDeltaTime()
+//        if (objectDetectEndEventDelayRemaining <= 0) {
+////            print("object detection delay expired")
+//            isObjectDetectionOn = false
+//            objectWasDetected = false
+//        }
+//    }
     
     updateObjectDetectionState()
 }
@@ -209,6 +225,6 @@ function onDetectionsUpdated(results) {
     objectWasDetected = isObjectDetected
 }
 
-if (script.mlOutputDecoderScript && script.mlOutputDecoderScript.api.addCallback) {
-    script.mlOutputDecoderScript.api.addCallback(onDetectionsUpdated)
-}
+//if (script.mlOutputDecoderScript && script.mlOutputDecoderScript.api.addCallback) {
+//    script.mlOutputDecoderScript.api.addCallback(onDetectionsUpdated)
+//}
