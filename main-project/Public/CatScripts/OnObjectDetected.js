@@ -9,7 +9,7 @@
 //@input SceneObject badAnimation2 = null
 //@input Component.AudioComponent badSound = null
 
-const StartDetectingWithoutPointing = false
+const StartDetectingWithoutPointing = true
 const DisableDetectionStates = false
 
 const CupClass = 1
@@ -50,7 +50,7 @@ function resetReinforcements() {
 
 function doPositiveReinforcement() {
     if (script.goodAnimation) script.goodAnimation.enabled = true
-    else print("script.goodAnimation undefined")
+//    else print("script.goodAnimation undefined")
     
     if (script.goodText) script.goodText.enabled = true
     
@@ -64,10 +64,10 @@ function doPositiveReinforcement() {
 
 function doNegativeReinforcement() {
     if (script.badAnimation1) script.badAnimation1.enabled = true
-    else print("script.badAnimation1 undefined")
+//    else print("script.badAnimation1 undefined")
     
     if (script.badAnimation2) script.badAnimation2.enabled = true
-    else print("script.badAnimation2 undefined")
+//    else print("script.badAnimation2 undefined")
     
     if (script.badSound && !script.badSound.isPlaying())
         script.badSound.play(1)
@@ -124,7 +124,7 @@ function updateObjectDetectionState() {
         }
     }
     else {
-        print("script.pointerObjectTrackingHint undefined")
+//        print("script.pointerObjectTrackingHint undefined")
     }  
 }
 
@@ -136,13 +136,13 @@ function onFrameUpdateEvent(e) {
     }
     
     if (script.onPointerEventScript === undefined) {
-        print("onPointerEventScript is undefined")
+//        print("onPointerEventScript is undefined")
         return
     }
     
     if (script.onPointerEventScript.api.isPointing || StartDetectingWithoutPointing) {
         if (!isPointing) {
-            print("Setting isPointing = true")
+//            print("Setting isPointing = true")
         }
         isPointing = true
         isObjectDetectionOn = true
@@ -151,8 +151,8 @@ function onFrameUpdateEvent(e) {
     else if (pointEndEventDelayRemaining > 0) {
         pointEndEventDelayRemaining -= getDeltaTime()
         if (pointEndEventDelayRemaining <= 0) {
-            print("point end delay expired")
-            print("Setting isPointing = false")
+//            print("point end delay expired")
+//            print("Setting isPointing = false")
             isPointing = false
         }
     }
@@ -164,7 +164,7 @@ function onFrameUpdateEvent(e) {
     else if (objectDetectEndEventDelayRemaining > 0) {
         objectDetectEndEventDelayRemaining -= getDeltaTime()
         if (objectDetectEndEventDelayRemaining <= 0) {
-            print("object detection delay expired")
+//            print("object detection delay expired")
             isObjectDetectionOn = false
             objectWasDetected = false
         }
@@ -182,7 +182,7 @@ function onDetectionsUpdated(results) {
         return
     }
 //    print("isObjectDetectionOn = " + isObjectDetectionOn)
-    print("Doing object detection handling ...")
+//    print("Doing object detection handling ...")
     
     var isObjectDetected = false
     
@@ -194,9 +194,9 @@ function onDetectionsUpdated(results) {
     for (var i = 0; i < resultsKeys.length; i += 1) {
         var result = results[i]
         if (result) {
-            print(i + ": box = " + result.box)
-            print("   score = " + result.score)
-            print("   class = " + result.class)
+//            print(i + ": box = " + result.box)
+//            print("   score = " + result.score)
+//            print("   class = " + result.class)
             isObjectDetected = true;
             detectedObjectClass = result.class
         }
