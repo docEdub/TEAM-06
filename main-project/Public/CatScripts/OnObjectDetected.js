@@ -12,7 +12,7 @@
 const FrameSkips = 5
 
 const StartDetectingWithoutPointing = false
-const DisableDetectionStates = false
+const DisableDetectionStates = true
 
 const CupClass = 1
 const CatClass = 3
